@@ -27,15 +27,30 @@ Organize everything in your life in one place.
 
 ---
 
-[Movie List](Personal%20Home%207e0b56eb06804697965b1bb1e8c3375b/Movie%20List%20e63f2f1ebf924d51a43dd1fdd3c9277b.md)
+# Movie List
+
+## Want to Watch
+
+---
+
+[Spring, Summer, Fall, Winter... and Spring (2003)](http://www.imdb.com/title/tt0374546/)
+
+## Watched
+
+---
 
 [Recipes](Personal%20Home%207e0b56eb06804697965b1bb1e8c3375b/Recipes%20a6b8efd445a642dca7d083908f46fc81.csv)
 
 ## Life
 
 ---
+Name,Tags,Link
+Vegetable Lo Mein for Two,Dinner,https://www.forkinthekitchen.com/vegetable-lo-mein-for-two/
+# Yearly Goals
 
-[Yearly Goals](Personal%20Home%207e0b56eb06804697965b1bb1e8c3375b/Yearly%20Goals%20868a528e327a4e0e86e40913bcaa67d4.md)
+- 
+- 
+-
 
 [Travel Plans](Personal%20Home%207e0b56eb06804697965b1bb1e8c3375b/Travel%20Plans%20143d7980066b408bbbaa7c6062161d25.csv)
 
